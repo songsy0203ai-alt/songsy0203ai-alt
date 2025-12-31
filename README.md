@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠 NOW STUDYING
-* **VLA Model**: 가공된 데이터를 활용한 협동 로봇 제어 AI 
+* **VLA Model**: 멀티모달 데이터를 활용한 협동 로봇 제어 AI 
 * **Isaac Sim**: 시뮬레이션 기반 합성 데이터 생성
 * **Robot Planning & Control**: SLAM, YOLO 기반 실시간 Robot Planning & Control 
 
