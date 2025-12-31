@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### seoyoung / README.md
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat&logo=nvidia&logoColor=white">
+</p>
+
+---
+
+## 💡 INTRODUCTION
+> "하드웨어에 대한 깊은 이해를 바탕으로 AI 기술을 접목하여, 실제 세상의 문제를 해결하는 스마트한 시스템을 만듭니다."
+
+* **Education**: 단국대학교 기계공학과 학사 졸업(25' 8'')
+* **Current**: 두산 Rokey AI 로보틱스 부트캠프 6기 수료 중
+* **Interest**: AI(CV, NLP, Sound), Robot, 데이터 합성 및 증강
+
+---
+
+## 🛠 NOW STUDYING
+* **VLA Model**: 가공된 데이터를 활용한 협동 로봇 제어 AI 
+* **Isaac Sim**: 시뮬레이션 기반 합성 데이터($Synthetic\ Data$)
+* **Robot Planning & Control**: SLAM, YOLO 기반 실시간 Robot Planning & Control 
+
+---
+
+## 🔗 CONTAC
+* **Email**: [songsy0203ai@gmail.com]
