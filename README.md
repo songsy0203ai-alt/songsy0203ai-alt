@@ -1,7 +1,7 @@
-## > **“안녕하세요, 데이터 기반 Vision 솔루션 엔지니어 송서영입니다.”**👩‍💻
+## “안녕하세요, 데이터 기반 Vision 솔루션 엔지니어 송서영입니다.”👩‍💻
 > 
 
-**“기계공학 기반의 분석적 사고를 AI 모델링에 투영하여, 데이터라는 새로운 눈으로 픽셀 너머의 세상을 바라보겠습니다.”** 
+**기계공학 기반의 분석적 사고를 AI 모델링에 투영하여, 데이터라는 새로운 눈으로 픽셀 너머의 세상을 바라보겠습니다.** 
 
 <!--
 **songsy0203ai-alt/songsy0203ai-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
