@@ -1,7 +1,7 @@
 ## “안녕하세요, 데이터 기반 Vision 솔루션 엔지니어 송서영입니다.”👩‍💻
 > 
 
-**기계공학 기반의 분석적 사고를 AI 모델링에 투영하여, 데이터라는 새로운 눈으로 픽셀 너머의 세상을 바라보겠습니다.** 
+> **기계공학 기반의 분석적 사고를 AI 모델링에 투영하여, 데이터라는 새로운 눈으로 픽셀 너머의 세상을 바라보겠습니다.** 
 
 <!--
 **songsy0203ai-alt/songsy0203ai-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ---
 
 ## 💡 INTRODUCTION
-> "하드웨어에 대한 깊은 이해를 바탕으로 AI 기술을 접목하여, 실제 세상의 문제를 해결하는 스마트한 시스템을 만듭니다."
 
 * **Education**: 단국대학교 기계공학과 학사 졸업(25' 8'')
 * **Current**: 두산 Rokey AI 로보틱스 부트캠프 6기 수료 중
