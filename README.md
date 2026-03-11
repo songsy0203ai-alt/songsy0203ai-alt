@@ -1,7 +1,7 @@
-## “안녕하세요, Vision 기반 AI 엔지니어 송서영입니다.”👩‍💻
+## “안녕하세요, AI 로보틱스 엔지니어 송서영입니다.”👩‍💻
 > 
 
-> **기계공학 기반의 분석적 사고를 AI 모델링에 투영하여, 데이터라는 새로운 눈으로 픽셀 너머의 세상을 바라보겠습니다.** 
+> **기계공학, AI, 로보틱스의 교점에서 실질적인 혁신을 이루는 엔지니어** 
 
 <!--
 **songsy0203ai-alt/songsy0203ai-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
