@@ -128,5 +128,5 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔗 CONTAC
+## 🔗 CONTACT
 * **Email**: [songsy0203ai@gmail.com]
