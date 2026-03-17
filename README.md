@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## 💡 INTRODUCTION
 
 * **Education**: 단국대학교 기계공학과 학사 졸업(25' 8'')
-* **Current**: 두산 Rokey AI 로보틱스 부트캠프 6기 수료(25' 9''~ 26' 3'') **[최종 종합 등급 A+ 달성]**
+* **Current**: 두산 Rokey AI 로보틱스 부트캠프 6기 수료(25' 9''~ 26' 3'') **"최종 종합 등급 A+ 달성"**
 * **Interest**: AI(CV, NLP, Sound), Robotics, Data Engineering, Smart Factory
 
 ---
