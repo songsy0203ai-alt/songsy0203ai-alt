@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 | **Robotics** | 🏆 **Doosan Robotics ROKEY BOOT CAMP 6기** <br> • 최종 종합 성적 **A+** 달성 <br> • 리더십 장학금 수령 (DR-06081) |
 | **Awards** | 💡 **제2회 DKU 지식재산 아이디어 경진대회** <br> • 우수상 수상 및 특허 출원 완료 |
 
----
 
 --- 
 
