@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 ## 🛠 NOW STUDYING
 * **Robot Simulation** : Mujoco 툴 학습 중
-* **Data Analysis** : AICE Associate 취득 완료, ㅁ# “데이터를 다루고, AI를 구축하고, 로봇을 움직이는 엔지니어”👩‍💻
+* **Data Analysis** : AICE Associate 취득 완료, ADsP 취득 준비 중
 
