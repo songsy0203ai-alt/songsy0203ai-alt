@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=flat&color=0078D4&height=100&section=header&text=PRO%20SKILLS%20&%20AWARDS&fontSize=40&animation=fadeIn" />
