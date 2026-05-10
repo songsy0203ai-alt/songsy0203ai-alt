@@ -44,3 +44,8 @@ Here are some ideas to get you started:
 * **Robot Simulation** : Mujoco 툴 학습 중
 * **Data Analysis** : AICE Associate 취득 완료, ADsP 취득 준비 중
 
+---
+
+## Contact
+* email : songsy0203ai@gmail.com
+
